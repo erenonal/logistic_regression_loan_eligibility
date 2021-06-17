@@ -4,7 +4,7 @@ Dream Housing Finance company deals in all home loans. They have a presence acro
 
 # About Implementation
 
-Using the Logistic Regression algorithm, I made a clustering by examining the spending of customers with their credit cards.
+Using the `Logistic Regression` algorithm, I made a loan eligibility prediction by customers status which are showing below.
 
 The explanations of the codes are also written as a comment line in detail, but I will write the operations I have done.
 
