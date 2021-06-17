@@ -8,7 +8,7 @@ Using the `Logistic Regression` algorithm, I made a loan eligibility prediction 
 
 The explanations of the codes are also written as a comment line in detail, but I will write the operations I have done.
 
-After defining the libraries we use, we read our file. We have two splitted datasets as loan_test and loan_train. I defined the reading patterns for the colab environment and for the local environment.
+After defining the libraries we use, we read our file. We have two splitted datasets as `loan_test` and `loan_train`. I defined the reading patterns for the colab environment and for the local environment.
 
 To familiarize myself with the dataset, I took a look at the variable names and types.
 
